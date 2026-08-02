@@ -7,7 +7,7 @@ The Global Financial Sentiment Index is a PCA‑based indicator constructed from
 
 📁 Repository Structure  
 /src – Python scripts for data extraction, correlation matrix, normalization, PCA computation and shock classification.  
-/docs – introduction, methodology, empirical results and appendices.
+/documents – introduction, methodology, empirical results and appendices.
 
 🚀 Reproducibility  
 All steps are fully automated in Python.  
