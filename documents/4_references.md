@@ -5,7 +5,7 @@ Books:
 • McKinney, W. (2022), “Python for data analysis”, O’Reilly Media.  
 • Neagu, F., Kubinschi, M., Alupoaiei, A. (2024), “Stabilitatea financiară și politica macroprudențială”, Curtea Veche Publishing.  
 
-Journal articles:
+Journal articles:  
 • Choi, H., Varian, H. (2009), “Predicting the present with Google Trends”, Google Inc., available on
 https://static.googleusercontent.com/media/www.google.com/en//googleblogs/pdfs/google_predicting_the_present.pdf  
 • di Castri Simone, Grasser Matt, Ongwae Juliet (2023), “State of SupTech Report 2023”, University of Cambridge - Cambridge SupTech Lab, available on https://cambridgesuptechlab.org/wp-content/uploads/2024/03/Cambridge-State-of-SupTech-Report-2023.pdf  
