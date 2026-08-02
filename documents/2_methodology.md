@@ -26,10 +26,10 @@ The first principal component represents the Global Financial Sentiment Index. P
 
 To ensure reproducibility and data consistency, I designed an automated Python workflow that extracted the selected terms from Google Trends, normalized the monthly data, and computed percentage changes. The principal component analysis is applied to the 23 financial terms. The values of the Global Financial Sentiment Index are automatically classified into positive and negative shocks and saved in a report. The chart is generated automatically. The full code is included in the appendix.
 
-The final dataset covers the period February 2004 – June 2026. To identify shocks, the values of the Global Financial Sentiment Index were classified as follows, allowing the association with real events presented in the appendix:
-• moderate positive shock: < –2
-• severe positive shock: < –3
-• extreme positive shock: < –4
-• moderate negative shock: > +2
-• severe negative shock: > +3
+The final dataset covers the period February 2004 – June 2026. To identify shocks, the values of the Global Financial Sentiment Index were classified as follows, allowing the association with real events presented in the appendix:  
+• moderate positive shock: < –2  
+• severe positive shock: < –3  
+• extreme positive shock: < –4  
+• moderate negative shock: > +2  
+• severe negative shock: > +3  
 • extreme negative shock: > +4
